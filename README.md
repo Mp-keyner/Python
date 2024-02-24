@@ -1,3 +1,5 @@
+https://docs.google.com/document/d/1li4hytsMLBlB8OllOxjYf_B-NB6b7C75PaMR0h-E1_4/edit?usp=sharing
+
 # Bucle While
 
 Para entender mejor el concepto del bucle `while`, vamos a definirlo de manera sencilla y luego a través de ejercicios prácticos.
