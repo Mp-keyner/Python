@@ -1,7 +1,3 @@
-Para crear un archivo similar al proporcionado pero enfocado en condicionales en Python, puedes seguir la estructura y el enfoque del archivo original, adaptándolo al tema de los condicionales. Aquí tienes un esquema que puedes seguir:
-
----
-
 # Operadores Condicionales en Python: Una Introducción Amigable
 
 Para entender mejor los operadores condicionales en Python, vamos a explicarlo de una manera sencilla y amigable, utilizando solo ejercicios prácticos que involucren la función `print` y el tema de los operadores condicionales.
